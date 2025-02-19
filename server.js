@@ -88,7 +88,7 @@ app.listen(3000)
 
 
 // CLASSES //
-
+/*
 class Person{
     constructor (name, age){
 console.log (`Hello, Im ${name}`)
@@ -111,3 +111,5 @@ console.log(`Hello, my name is ${this.name} and I'm ${this.age} Years old`)
 const newPerson = new Person ('André', 25)
 
 newPerson.talk()
+
+*/
